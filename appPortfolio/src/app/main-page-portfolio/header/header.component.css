@@ -1,0 +1,53 @@
+h2{
+    margin: 0;
+}
+
+header{
+    width:100%;
+    height:65px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#0E141B;
+}
+
+.header__container{
+    width: 100;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}    
+
+.header__fontImg{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    background-color: gray;
+    margin-right:14px;
+    margin-left: 21px;
+}
+
+.header__name{
+    font-family: JetBrains Mono;
+    font-size: 13px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.header__hamburgerMenu{
+    width:45px;
+    height:45px;
+    border-radius:50%;
+    background-color:#303030;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 21px;
+}
+
+.icon__hamburgerMenu{
+    color:#F5B04B;
+    font-size: 25px;    
+} 

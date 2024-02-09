@@ -1,0 +1,40 @@
+.proyect{
+    width:240px;
+    height:354px;
+    border-radius: 13px;
+    padding-inline:14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom:45px;
+    background-image:url('https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989_1280.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.proyect__name{
+    font-family:Montagu Slab;
+    font-size:20px;
+    font-weight:600;
+    color:#F2EDED;
+    margin-bottom:40px; 
+}
+
+.proyect__description{
+    font-family:JetBrains Mono;
+    font-size:16px;
+    font-weight:600;
+    color:#F5B04B;
+    margin-bottom:17px; 
+}
+
+.proyect__iconContainer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.icon__feather{
+    color: #C7C7C7;
+    font-size:24px;
+}

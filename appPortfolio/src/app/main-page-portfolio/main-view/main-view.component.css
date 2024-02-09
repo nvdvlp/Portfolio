@@ -1,0 +1,101 @@
+h2{
+    margin: 0;
+}
+
+main{
+    width: 100%;
+    height: 100%;
+    background-color: #0E141B;
+    margin-top:61px;
+}
+
+.presentation{
+    padding-inline:21px;
+    max-width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.presentation__myNameIs{
+    font-family:JetBrains Mono;
+    font-size:16px;
+    font-weight:500;
+    color:#F5B04B;
+    margin-bottom:14px;
+}
+
+
+.presentation__webDevelop{
+    font-family:JetBrains Mono NL;
+    font-size:35px;
+    font-weight:600;
+    color:#C7C7C7;
+    margin-bottom:21px;
+}
+
+.presentation__paragrahp{
+    font-family:Montagu Slab;
+    font-size:22px;
+    font-weight:500;
+    color:#F2EDED;
+    margin-bottom:27px;
+}
+
+.tools{
+    padding-inline:21px;
+    max-width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.tools_tittle{
+    font-family:JetBrains Mono;
+    font-size:16px;
+    font-weight:600;
+    color:#F5B04B;
+    margin-bottom:34px;
+}
+
+.tools__ContainerRow{
+    display: flex;
+    flex-direction: row;
+}
+
+.tools__ContainerColumn{
+    display: flex;
+    flex-direction: column;
+    margin-right: 34px;
+}
+
+.tools__Img{
+    width:72px;
+    height:72px;
+    margin-bottom:13px; 
+}
+
+.tools__name{
+    font-family:JetBrains Mono;
+    font-size:13px;
+    font-weight:600;
+    color:#F2EDED;
+    margin-bottom:40px; 
+    text-align: center;
+}
+
+.portafolio{
+    padding-inline:21px;
+    max-width: 320px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.portafolio__name{
+    font-family:Montagu Slab;
+    font-size:32px;
+    font-weight:600;
+    color:#F2EDED;
+    margin-bottom:51px; 
+}
