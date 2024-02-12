@@ -7,9 +7,10 @@
     flex-direction: column;
     justify-content: flex-start;
     margin-bottom:45px;
-    background-image:url('https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989_1280.jpg');
+    background-color: #302d2d;
+    /* background-image:url('https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989_1280.jpg');
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center; */
 }
 
 .proyect__name{
