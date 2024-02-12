@@ -99,3 +99,13 @@ main{
     color:#F2EDED;
     margin-bottom:51px; 
 }
+
+.contact{
+    padding-inline:21px;
+    max-width: 320px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
